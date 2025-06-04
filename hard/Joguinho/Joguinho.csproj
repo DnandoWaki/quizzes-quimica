@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{FFF54A39-AC04-4E81-B452-0F13A7951F1D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Joguinho</RootNamespace>
+    <AssemblyName>Joguinho</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Q.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Final.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Final.Designer.cs">
+      <DependentUpon>Final.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="global.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Inicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Inicio.Designer.cs">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Questao1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Questao1.Designer.cs">
+      <DependentUpon>Questao1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Questao10.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Questao10.Designer.cs">
+      <DependentUpon>Questao10.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Questao2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Questao2.Designer.cs">
+      <DependentUpon>Questao2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Questao3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Questao3.Designer.cs">
+      <DependentUpon>Questao3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Questao4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Questao4.Designer.cs">
+      <DependentUpon>Questao4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Questao5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Questao5.Designer.cs">
+      <DependentUpon>Questao5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Questao6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Questao6.Designer.cs">
+      <DependentUpon>Questao6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Questao7.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Questao7.Designer.cs">
+      <DependentUpon>Questao7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Questao8.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Questao8.Designer.cs">
+      <DependentUpon>Questao8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Questao9.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Questao9.Designer.cs">
+      <DependentUpon>Questao9.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Variaveis.cs" />
+    <EmbeddedResource Include="Final.resx">
+      <DependentUpon>Final.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Inicio.resx">
+      <DependentUpon>Inicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Questao1.resx">
+      <DependentUpon>Questao1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Questao10.resx">
+      <DependentUpon>Questao10.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Questao2.resx">
+      <DependentUpon>Questao2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Questao3.resx">
+      <DependentUpon>Questao3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Questao4.resx">
+      <DependentUpon>Questao4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Questao5.resx">
+      <DependentUpon>Questao5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Questao6.resx">
+      <DependentUpon>Questao6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Questao7.resx">
+      <DependentUpon>Questao7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Questao8.resx">
+      <DependentUpon>Questao8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Questao9.resx">
+      <DependentUpon>Questao9.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Molecula.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\giphy.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Molecula3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Molecula2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Molecula21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Molecula31.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de tela 2024-08-30 154103.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de tela 2024-08-30 155819.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de tela 2024-08-31 140800.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de tela 2024-08-31 140834.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de tela 2024-08-31 142608.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Captura de tela 2024-08-31 153332.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Nanokid.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Q.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

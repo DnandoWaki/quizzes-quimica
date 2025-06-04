@@ -1,0 +1,66 @@
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\bin\Debug\Joguinho.exe.config
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\bin\Debug\Joguinho.exe
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\bin\Debug\Joguinho.pdb
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\obj\Debug\Joguinho.csproj.AssemblyReference.cache
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\obj\Debug\Joguinho.Loading.resources
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\obj\Debug\Joguinho.Properties.Resources.resources
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\obj\Debug\Joguinho.csproj.GenerateResource.cache
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\obj\Debug\Joguinho.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\obj\Debug\Joguinho.exe
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\obj\Debug\Joguinho.pdb
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\obj\Debug\Joguinho.Resources.Inicio.resources
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\obj\Debug\Joguinho.Final.resources
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\obj\Debug\Joguinho.Questao1.resources
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\obj\Debug\Joguinho.Questao2.resources
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\obj\Debug\Joguinho.Questao3.resources
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\obj\Debug\Joguinho.Questao10.resources
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\obj\Debug\Joguinho.Questao4.resources
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\obj\Debug\Joguinho.Questao5.resources
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\obj\Debug\Joguinho.Questao6.resources
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\obj\Debug\Joguinho.Questao7.resources
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\obj\Debug\Joguinho.Questao8.resources
+C:\Users\Windows 10\Documents\Nando's things\Codigos\Joguinho\Joguinho\obj\Debug\Joguinho.Questao9.resources
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\bin\Debug\Joguinho.exe.config
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\bin\Debug\Joguinho.exe
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\bin\Debug\Joguinho.pdb
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\obj\Debug\Joguinho.csprojAssemblyReference.cache
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\obj\Debug\Joguinho.Final.resources
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\obj\Debug\Joguinho.Loading.resources
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\obj\Debug\Joguinho.Resources.Inicio.resources
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\obj\Debug\Joguinho.Properties.Resources.resources
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\obj\Debug\Joguinho.Questao1.resources
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\obj\Debug\Joguinho.Questao10.resources
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\obj\Debug\Joguinho.Questao2.resources
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\obj\Debug\Joguinho.Questao3.resources
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\obj\Debug\Joguinho.Questao4.resources
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\obj\Debug\Joguinho.Questao5.resources
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\obj\Debug\Joguinho.Questao6.resources
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\obj\Debug\Joguinho.Questao7.resources
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\obj\Debug\Joguinho.Questao8.resources
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\obj\Debug\Joguinho.Questao9.resources
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\obj\Debug\Joguinho.csproj.GenerateResource.cache
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\obj\Debug\Joguinho.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\obj\Debug\Joguinho.exe
+C:\Users\Aluno\Documents\2mtecDSLG2k24\Joguinho\Joguinho\obj\Debug\Joguinho.pdb
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\bin\Debug\Joguinho.exe.config
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\bin\Debug\Joguinho.exe
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\bin\Debug\Joguinho.pdb
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\obj\Debug\Joguinho.csprojAssemblyReference.cache
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\obj\Debug\Joguinho.Final.resources
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\obj\Debug\Joguinho.Loading.resources
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\obj\Debug\Joguinho.Resources.Inicio.resources
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\obj\Debug\Joguinho.Properties.Resources.resources
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\obj\Debug\Joguinho.Questao1.resources
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\obj\Debug\Joguinho.Questao10.resources
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\obj\Debug\Joguinho.Questao2.resources
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\obj\Debug\Joguinho.Questao3.resources
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\obj\Debug\Joguinho.Questao4.resources
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\obj\Debug\Joguinho.Questao5.resources
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\obj\Debug\Joguinho.Questao6.resources
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\obj\Debug\Joguinho.Questao7.resources
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\obj\Debug\Joguinho.Questao8.resources
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\obj\Debug\Joguinho.Questao9.resources
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\obj\Debug\Joguinho.csproj.GenerateResource.cache
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\obj\Debug\Joguinho.csproj.CoreCompileInputs.cache
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\obj\Debug\Joguinho.exe
+D:\2mtecDSLG2k24\Joguinho-Hard\Joguinho\obj\Debug\Joguinho.pdb
